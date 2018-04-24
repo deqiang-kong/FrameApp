@@ -42,11 +42,9 @@
 
 ### 其他：
 - 图片毛玻璃效果（头像背景效果）
-- 自定义封装的 RecyclerView： [MagicRecyclerView][7] 支持头部底部和标签
+- 自定义封装的 RecyclerView： [MagicRecyclerView] 支持头部底部和标签
 - 自定义 behavior 实现滑动时底部导航栏的隐藏显示效果
-- Android N 文件读写适配
-- Android M+ 运行时权限申请封装
-- 分享 ShareSDK 接入（分享平台未进行注册申请，后续再完善）
+- 分享 ShareSDK 接入
 - 自定义相册图片选择
 - Activity 右滑返回
 
