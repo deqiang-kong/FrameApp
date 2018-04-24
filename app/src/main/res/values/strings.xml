@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FrameApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="versionHint">版本：V%1$s</string>
+    <string name="exitHint">再按一次退出</string>
+
+    <string name="network_unusual_hint">亲！没有可用网络〒_〒</string>
+
+
+    <!--aboutAct-->
+    <string name="about_name">关于界面</string>
+    <string name="about_me">关于我</string>
+    <string name="my_info">大家好，。</string>
+    <string name="about_project">关于本项目</string>
+    <string name="project_info">这个项目是为了学习Kotlin而写的，这个项目使用了Picasso加载图片，数据来源于鼠绘漫画网，用Jsoup解析，仅用于学习用途。此项目并未完全完成，有许多地方需要优化，由于学业紧张，只得慢慢优化。</string>
+    <string name="about_link">相关链接</string>
+    <string name="link_info">www.baidu.com</string>
+
+    <string name="link_one">此项目的Java版\n https://github.com/wuapnjie/PoiShuHui</string>
+    <string name="link_two">我的Github主页\n https://github.com/wuapnjie</string>
+    <string name="link_three">我的Github Pages\n  https://wuapnjie.github.io</string>
+
+    <string name="about_thank">使用的库</string>
+    <string name="thank_info">Picasso \nJsoup</string>
+    <string name="more">MORE</string>
+
+
+    <string name="news_detail">新闻详情</string>
+
+
+    <!--新闻频道编辑 -->
+    <string name="channel_tip_drag">点击删除,长按编辑,拖拽排序</string>
+    <string name="channel_my_channel">我的频道</string>
+    <string name="channel_other_channel">其他频道</string>
+    <string name="channel_edit">编辑</string>
+    <string name="channel_finish">完成</string>
+
+</resources>

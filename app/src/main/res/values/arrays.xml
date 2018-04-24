@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="shareFriendTitleList">
+        <item>微信好友</item>
+        <item>微信朋友圈</item>
+        <item>收藏到微信</item>
+        <!--<item>新浪微博</item>-->
+        <!--<item>腾讯QQ</item>-->
+        <!--<item>QQ空间</item>-->
+    </string-array>
+
+    <string-array name="startNavigationNameList">
+        <item>全部</item>
+        <item>精美图集</item>
+        <item>最新活动</item>
+        <item>精彩视频</item>
+        <item>精彩视频</item>
+    </string-array>
+
+
+    <string-array name="incomeNavigationNameList">
+        <item>转发收益</item>
+        <item>分红收益</item>
+    </string-array>
+
+    <string-array name="performerDetailNavigationNameList">
+        <item>基本信息</item>
+        <item>粉丝投票</item>
+        <item>评论</item>
+    </string-array>
+
+
+
+
+</resources>

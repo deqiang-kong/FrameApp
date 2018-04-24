@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".module.wynews.ui.NewsActivity">
+    <item
+        android:id="@+id/action_channel_manage"
+        android:icon="@mipmap/ic_dvr_white"
+        android:orderInCategory="100"
+        android:title="频道管理"
+        app:showAsAction="never"/>
+</menu>

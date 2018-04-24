@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fmklibrary</string>
+
+    <string name="expand_text">展开</string>
+    <string name="close_text">折叠</string>
+</resources>
